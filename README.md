@@ -1,4 +1,4 @@
-# rahul-chhabadiya
+# Rahul Chhabadiya
 Data Analyst | ML & AI Enthusiast | Solution-Driven Developer
 
 👋 Hello! I'm a detail-oriented and solution-driven Data Analyst with a strong background in computer science. I have hands-on experience in software development, implementing Machine Learning & AI solutions, building robust ETL pipelines, and creating compelling data visualizations.
